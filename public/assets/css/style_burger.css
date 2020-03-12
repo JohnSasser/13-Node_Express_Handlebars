@@ -1,0 +1,20 @@
+.head-cont {
+	text-align: center;
+	/* display: flex; */
+}
+
+.jumbotron {
+	margin: 0 auto;
+}
+
+.jumbo-1 {
+	background-color: #909f80ac;
+}
+
+.jumbo-2 {
+	background-color: #746060ac;
+}
+
+.jumbo-3 {
+	background-color: #74a1b6ac;
+}

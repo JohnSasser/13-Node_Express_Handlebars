@@ -1,3 +1,29 @@
+<!--  -->
+
+<!--  -->
+
+# 1 CONNECTION
+
+# 2 ORM
+
+# 3 MODEL
+
+# 4 CONTROLLER
+
+# 5 SERVER
+
+# 6 FRONT-END
+
+- HTML
+- .JS
+- CSS
+
+<!--  -->
+
+<!--  -->
+
+<!--  -->
+
 # 13-Node_Express_Handlebars
 
 It logs the burgers you ate with MySQL, Node, Express, Handlebars and a homemade ORM.

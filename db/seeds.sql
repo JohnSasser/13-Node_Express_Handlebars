@@ -1,10 +1,10 @@
 -- ***2
 -- go ahead and set this up after schema
 
-INSERT INTO burgers (burger_name, devoured)
+INSERT INTO burgers (burger_name)
 VALUES
-('Coronary Bypass Burger', true),
-('Siracha Lover', true),
-("Swiss & Mushroom", true),
-("BLT", false),
-("Grilled Cheesy Mofo", false);
+('Coronary Bypass Burger'),
+('Siracha Lover'),
+("Swiss & Mushroom"),
+("BLT"),
+("Grilled Cheesy Mofo");

@@ -5,8 +5,8 @@ const connection = mysql.createConnection({
 	host: "localhost",
 	port: 3306,
 	user: "root",
-	password: "root",
-	database: "burger"
+	password: "",
+	database: "burger_db"
 });
 
 // Make connection.
@@ -19,4 +19,11 @@ connection.connect(err => {
 });
 
 // Export connection for our ORM to use.
+
 module.exports = connection;
+
+// to check if the app is connected to MySql;
+
+// open terminal in the connection.js file and run
+// node connection
+// should return the connection.threadId;
