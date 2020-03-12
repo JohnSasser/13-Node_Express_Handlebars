@@ -32,4 +32,3 @@ module.exports = connection;
 
 // open terminal in the connection.js file and run
 // node connection
-// should return the connection.threadId;
